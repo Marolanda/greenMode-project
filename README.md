@@ -1,4 +1,5 @@
-Projeto GreenMode 
+🎈Projeto GreenMode 
+
 Na discplina de UI/UX, foi passado o desafio de desenvolver um site com o tema: "Ecommerce de produtos sustentáveis", a partir disso, foi criada a GreenMode, um site 
 - Navegação intuitiva;
 - Visualmente limpo;
