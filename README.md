@@ -16,14 +16,19 @@ Na discplina de UI/UX, foi passado o desafio de desenvolver um site com o tema: 
 - Navegador
 
 🛠️ Construído com
-Bootstrap - Framework web 
-Figma - Editor gráfico utilizado para criação do protótipo
-VScode - IDE usada
+
+>Bootstrap - Framework web
+
+>Figma - Editor gráfico utilizado para criação do protótipo
+
+>VScode - IDE usada
 
 ✒️ Autores
-Júlio César - Desenvolvedor web, Designer 
-Mariana Holanda - Desenvolvedora web, Designer
-Paulo Ricardo - Documentação, Designer
+
+- Júlio César - Desenvolvedor web, Designer
+- Mariana Holanda - Desenvolvedora web, Designer
+- Paulo Ricardo - Documentação, Designer
 
 🎁 Expressões de gratidão
+
 Agradecimento aos professores, Flávio Secco e Huilton Carlos, que ajudaram no desenvolvimento do projeto inteiro.
